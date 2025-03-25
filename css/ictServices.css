@@ -1,0 +1,13 @@
+.ict-section-img{
+    width: 321px;
+}
+
+.ict-services-item p{
+    font-size: 1.5rem;
+}
+
+.ict-services-item{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}

@@ -1,0 +1,31 @@
+.main-contact-container{
+    background-size: initial;
+    background-repeat: repeat-y;
+    background-position: left top;
+    background-image: url(../public/high-school_42.png) !important;
+    background-color: #f5f0eb;
+    padding: 50px 30px 0px 220px;
+
+    display: flex;
+    gap: 200px;
+}
+
+.main-contact{
+    margin-top: 150px;
+}
+
+.main-contact-container h1{
+    font-size: 4.8rem;
+}
+
+.contact-info{
+    margin: 40px 0;
+}
+
+.contact-info h4{
+    font-size: 1.1rem;
+}
+
+.contact-info p{
+    font-size: 1.1rem;
+}

@@ -7,6 +7,9 @@
 @import "./css/ictSection.css";
 @import "./css/FAQsection.css";
 @import "./css/categorySection.css";
+@import "./css/ictServices.css";
+@import "./css/regulatoryManagement.css";
+@import "./css/contact.css";
 
 body {
     margin: 0;
@@ -20,14 +23,31 @@ h2,
 h3,
 h4,
 h5,
-h6 {
+h6{
     padding: 0;
     margin: 0;
     font-size: 12px;
 }
 
+ul{
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    background: none;
+    border: none;
+    outline: none;
+}
+
+li{
+    list-style: none;
+}
+
 .section-title{
-    font-size: 2.5rem;
+    font-size: 2.3rem;
     margin:70px 0;
 }
 
@@ -59,6 +79,14 @@ button {
     height: 599px;
     background-image: url(./public/man-g40c8ff7e6_1920.jpg);
     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nose4{
+    width: 100%;
+    height: 744px;
+    background-image: url(./public/hombre-trabajando-noche.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }

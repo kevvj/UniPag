@@ -1,0 +1,31 @@
+.regulatory-documents{
+    width: 1079px;
+    border: 1px solid #ccc;
+    background-color: #f4f4f4;
+}
+
+
+.regulatory-documents-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.regulatory-documents-item{
+    border-right: 1px solid #ccc;
+    padding: 4px 30px;
+}
+.regulatory-documents-item a{
+    font: 1.2rem;
+}
+
+.regulatory-documents-text{
+    padding: 24px 30px;
+    background-color: white;
+    color: #2ea3f2;
+}
+
+
+
+
