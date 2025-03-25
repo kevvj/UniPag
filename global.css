@@ -1,0 +1,64 @@
+@import "./css/topBar.css";
+@import "./css/header.css";
+@import "./css/platformSection.css";
+@import "./css/statisticsSection.css";
+@import "./css/helpDeskSection.css";
+@import "./css/footer.css";
+@import "./css/ictSection.css";
+@import "./css/FAQsection.css";
+@import "./css/categorySection.css";
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Open Sans, Arial, sans-serif;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    padding: 0;
+    margin: 0;
+    font-size: 12px;
+}
+
+.section-title{
+    font-size: 2.5rem;
+    margin:70px 0;
+}
+
+button {
+    background-color: transparent;
+    border: none;
+}
+
+.nose {
+    width: 100%;
+    height: 500px;
+    background-image: url(./public/DSC61332-scaled.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nose2 {
+    width: 100%;
+    height: 572px;
+    background-image: url(./public/man-gb4f0ce5fa_1920.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nose3{
+    width: 100%;
+    height: 599px;
+    background-image: url(./public/man-g40c8ff7e6_1920.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

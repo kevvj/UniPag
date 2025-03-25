@@ -1,0 +1,40 @@
+.ict-section-container {
+    background-color: #f5f0eb;
+    display: flex;
+    flex-direction: column;
+}
+
+.ict-section{
+    margin-bottom: 70px;
+}
+
+.ict-section-container h2 {
+    font-size: 2.3rem;
+    font-family: 'Roboto', Helvetica, Arial, Lucida, sans-serif;
+    width: 1000px;
+    margin-bottom: 0;
+}
+
+.ict-section-description {
+    font-size: 1rem;
+    width: 690px;
+    color: #7d7d7d;
+}
+
+.ict-section-text{
+    font-size: 1rem;
+    width: 1080px;
+    color: #7d7d7d;
+    margin-top: 10px;
+}
+
+.cintia-logo {
+    width: 320px;
+}
+
+.ict-section-container h3{
+    font-size: 1.6rem;
+    font-family: 'Roboto', Helvetica, Arial, Lucida, sans-serif;
+    width: 1000px;
+    margin-bottom: 0;
+}

@@ -1,0 +1,39 @@
+.platform-section-container{
+    background-color: #f8f5f1;
+    display: flex;
+    flex-direction: column;
+}
+.platform-section{
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+.platform-image{
+    width: 320px;
+    height: 215px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    position: relative;
+
+}
+
+
+.platform-section-text{
+    background-color: white;
+    padding: 8px 20px 18px 20px;
+    font-size: 1.2rem;
+    width: 84%;
+    position: absolute;
+    bottom: -12px;
+    left: 0;
+    font-weight: bold;
+}
+
+.platform button{
+    margin-top: 12px;
+    padding: 15px 30px;
+    font-size: 1rem;
+}

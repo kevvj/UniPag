@@ -1,0 +1,34 @@
+.help-desk-section-container .section-title{
+    margin-bottom: 40px;
+}
+
+.help-desk-section-container p{
+    font-size: 1.05rem;
+    margin-bottom: 20px;
+    
+}
+
+.help-desk-section{
+    width: 1050px;
+    margin-bottom: 50px;
+}
+
+.help-desk-section-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fdfdf7;
+}
+
+.help-desk-section button{
+    padding: 10px 25px;
+    border-radius: 2px;
+    font-size: 1.3rem;
+}
+
+.help-desk-buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 70px;
+}

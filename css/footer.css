@@ -1,0 +1,25 @@
+.footer{
+    padding: 15px 0 5px;
+    background-color: #171717;
+    color: #ccc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-info{
+    max-width: 1080px;
+    padding-bottom: 10px;
+    
+}
+
+.footer-info p{
+    font-size: 1rem;
+}
+
+.footer-info table{
+    display: flex;
+    justify-content: end;
+    border-spacing: 20px 0;
+    font-size: 1.6rem;
+}

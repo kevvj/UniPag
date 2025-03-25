@@ -1,0 +1,21 @@
+.media{
+    width: 50%;
+}
+.categorized-links{
+    width: 50%;
+    display: flex;
+    justify-content: end;
+}
+
+.top-bar{
+    display: flex;
+    background-color: #2ea3f2;
+    color: white;
+    padding: 5px 3px;
+    font-weight: bold;
+    
+}
+
+.top-bar table{
+    border-spacing: 20px 0;
+}
