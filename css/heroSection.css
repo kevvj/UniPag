@@ -1,0 +1,83 @@
+.hero-main-container {
+    margin-left: 300px;
+}
+
+.hero-main-container td {
+    margin: 0;
+    padding: 0;
+}
+
+.hero-main {
+    width: 100%;
+    height: 506px;
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.76) 100%), url(../public/DSC61332-scaled.jpg) !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero-main h1,
+.hero-main p {
+    color: white;
+}
+
+.hero-main h1 {
+    font-size: 4.8rem;
+}
+
+.hero-main p {
+    font-size: 1.5rem;
+}
+
+.hero-main-text {
+    padding: 40px 40px 40px 0;
+    width: 568px;
+}
+
+.hero-main-items {
+    width: 304px;
+    height: 236px;
+    background-size: initial;
+    background-repeat: repeat-x;
+    background-position: left top;
+    background-image: url(../public/high-school_50.png);
+
+    
+
+    display: flex;
+    flex-direction: column;
+}
+
+.hero-main-items p{
+    font-size: 1.2rem;
+    color: white;
+}
+
+ .hero-main-items p , .hero-main-items img {
+    margin: 40px 20px 0px 20px;
+}
+
+.hero-main-items img {
+    width: 60px;
+}
+
+.nose2 {
+    
+}
+
+.nose3 {
+    width: 100%;
+    height: 599px;
+    background-image: url(../public/man-g40c8ff7e6_1920.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nose4 {
+    width: 100%;
+    height: 744px;
+    background-image: url(../public/hombre-trabajando-noche.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

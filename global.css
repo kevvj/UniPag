@@ -10,6 +10,8 @@
 @import "./css/ictServices.css";
 @import "./css/regulatoryManagement.css";
 @import "./css/contact.css";
+@import "./css/heroSection.css";
+@import "./css/globalHero.css";
 
 body {
     margin: 0;
@@ -56,37 +58,3 @@ button {
     border: none;
 }
 
-.nose {
-    width: 100%;
-    height: 500px;
-    background-image: url(./public/DSC61332-scaled.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.nose2 {
-    width: 100%;
-    height: 572px;
-    background-image: url(./public/man-gb4f0ce5fa_1920.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.nose3{
-    width: 100%;
-    height: 599px;
-    background-image: url(./public/man-g40c8ff7e6_1920.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.nose4{
-    width: 100%;
-    height: 744px;
-    background-image: url(./public/hombre-trabajando-noche.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
